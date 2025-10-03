@@ -38,8 +38,9 @@ Used at the root to switch between top-level views:
 
 ### Screenshots
 
-<img width="370" height="809" alt="Screenshot 2025-10-03 at 15 40 35" src="https://github.com/user-attachments/assets/f531adb0-cd85-4a12-8f2b-8c67063ff0a6" style="width:200px;"/>
-<img width="366" height="804" alt="Screenshot 2025-10-03 at 15 40 52" src="https://github.com/user-attachments/assets/8bb5f930-7314-4d3f-932a-9e1b77e1cb4d" style="width:200px;"/>
-<img width="373" height="810" alt="Screenshot 2025-10-03 at 15 41 05" src="https://github.com/user-attachments/assets/9e1a5cfd-f609-44ff-84d5-0a502ae4851c" style="width:200px;"/>
-<img width="362" height="804" alt="Screenshot 2025-10-03 at 15 41 20" src="https://github.com/user-attachments/assets/33072774-ac76-4e11-a7fe-3f3d008f08cd" style="width:200px;"/>
-<img width="360" height="803" alt="Screenshot 2025-10-03 at 15 41 28" src="https://github.com/user-attachments/assets/45dace23-ee2e-4182-8601-40700194d54b" style="width:200px;"/>
+<img width="590" height="1278" alt="IMG_2111" src="https://github.com/user-attachments/assets/ebb19fa1-1178-42b4-a17a-dcf15982ed72" style="width:200px;" />
+
+<img width="590" height="1278" alt="IMG_2112" src="https://github.com/user-attachments/assets/e037124d-ab8c-4ddd-aa4c-205ab1022e9d" style="width:200px;"/>
+<img width="590" height="1278" alt="IMG_2113" src="https://github.com/user-attachments/assets/647c3cf1-d7ad-4e69-b846-f1e73cfaf626" style="width:200px;"/>
+<img width="590" height="1278" alt="IMG_2115" src="https://github.com/user-attachments/assets/69b8e298-1b0f-4783-b124-edf18380e828" style="width:200px;"/>
+<img width="590" height="1278" alt="IMG_2116" src="https://github.com/user-attachments/assets/bf4d35ee-7570-4963-9f89-6d6b25b37f7c" style="width:200px;"/>
