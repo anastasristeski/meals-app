@@ -38,7 +38,7 @@ Used at the root to switch between top-level views:
 
 ### Screenshots
 
-<img width="370" height="809" alt="Screenshot 2025-10-03 at 15 40 35" src="https://github.com/user-attachments/assets/f531adb0-cd85-4a12-8f2b-8c67063ff0a6" />
+<img width="370" height="809" alt="Screenshot 2025-10-03 at 15 40 35" src="https://github.com/user-attachments/assets/f531adb0-cd85-4a12-8f2b-8c67063ff0a6" style="width:200px;"/>
 <img width="366" height="804" alt="Screenshot 2025-10-03 at 15 40 52" src="https://github.com/user-attachments/assets/8bb5f930-7314-4d3f-932a-9e1b77e1cb4d" />
 <img width="373" height="810" alt="Screenshot 2025-10-03 at 15 41 05" src="https://github.com/user-attachments/assets/9e1a5cfd-f609-44ff-84d5-0a502ae4851c" />
 <img width="362" height="804" alt="Screenshot 2025-10-03 at 15 41 20" src="https://github.com/user-attachments/assets/33072774-ac76-4e11-a7fe-3f3d008f08cd" />
