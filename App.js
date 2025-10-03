@@ -67,7 +67,7 @@ export default function App() {
               headerShown: false,
             }}
           />
-          <Stack.Screen name="MealsOverview" component={MealsOverviewScreen} />
+          <Stack.Screen name="MealsOverview" component={MealsOverviewScreen} options={{headerBackTitle: "Back"}} />
           <Stack.Screen name="MealDetail" component={MealDetailScreen} options={{title: 'About the meal'}}/>
         </Stack.Navigator>
       </NavigationContainer>
